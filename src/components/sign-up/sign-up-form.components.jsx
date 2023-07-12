@@ -85,7 +85,7 @@ onChange = {handleChange}
 name='confirmPassword' 
 value = {confirmPassword}
 />
-<Button buttonType = 'google' type = 'submit'>Sign Up</Button>
+<Button type = 'submit'>Sign Up</Button>
     </form>
 </div>
     )
